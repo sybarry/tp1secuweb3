@@ -183,6 +183,6 @@ async function checkFolder(folder:string){
           console.error(e);
       }
   }
-  console.log("************************************");
+  console.log("**********merci******************");
 
   
